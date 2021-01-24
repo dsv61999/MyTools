@@ -1,0 +1,23 @@
+index,convolution layer,mAP,pre-trained task
+0,0,0.6501,ImageNet
+1,5,0.6658,ImageNet
+2,10,0.6647,ImageNet
+3,15,0.6766,ImageNet
+4,20,0.6873,ImageNet
+5,25,0.6721,ImageNet
+6,30,0.6839,ImageNet
+7,35,0.68,ImageNet
+8,40,0.665,ImageNet
+9,45,0.6413,ImageNet
+10,49,0.6464,ImageNet
+11,0,0.6335,ImageNet
+12,5,0.6722,ImageNet
+13,10,0.6512,ImageNet
+14,15,0.6782,ImageNet
+15,20,0.685,ImageNet
+16,25,0.6746,ImageNet
+17,30,0.6816,ImageNet
+18,35,0.6757,ImageNet
+19,40,0.6551,ImageNet
+20,45,0.6515,ImageNet
+21,49,0.6415,ImageNet
